@@ -1,0 +1,51 @@
+{
+  "departments": [
+    {
+      "name": "National Diploma in Architecture",
+      "papers": [
+        {
+          "unit_code": "TCT 2201",
+          "title": "Tachometry II",
+          "year": "2025",
+          "semester": "Year II Sem II",
+          "url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/architecture/tct2201_2025.pdf"
+        },
+        {
+          "unit_code": "ARC 1101",
+          "title": "History of Architecture",
+          "year": "2024",
+          "semester": "Year I Sem I",
+          "url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/architecture/arc1101_2024.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Civil Engineering",
+      "papers": [
+        {
+          "unit_code": "CIV 2101",
+          "title": "Strength of Materials",
+          "year": "2024",
+          "semester": "Year II Sem I",
+          "url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/civil/strength_2024.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Water Engineering",
+      "papers": []
+    },
+    {
+      "name": "Mechanical Engineering",
+      "papers": []
+    },
+    {
+      "name": "Refrigeration and AC",
+      "papers": []
+    },
+    {
+      "name": "Mechatronics",
+      "papers": []
+    }
+  ]
+}
